@@ -7,7 +7,7 @@ Deployed at: https://post-it-heroku.herokuapp.com/
 ## Features
 - Create, read, update and delete posts
 - Like and unlike posts
-- Create, reply to, read, update and delete nested commentsa
+- Create, reply to, read, update and delete nested comments
 - Markdown for posts and comments
 - Sign up and login using JWT for authentication
 - Private message users in real-time using socket.io
